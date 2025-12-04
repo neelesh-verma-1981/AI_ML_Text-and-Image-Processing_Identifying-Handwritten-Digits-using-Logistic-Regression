@@ -1,2 +1,2 @@
-# Identifying handwritten digits using Logistic Regression
+# Identifying Handwritten Digits using Logistic Regression
 ...
